@@ -256,7 +256,7 @@ input[type=submit]:focus {
         max-height: 80vh;
         min-height: inherit;
         text-align: center;
-        padding: 70px 30px 45px;
+        padding: 30px 30px 45px;
         overflow: auto
     }
 
@@ -441,7 +441,7 @@ input[type=submit]:focus {
 }
 
 .header-buttons {
-    margin-top: 50px
+    /* margin-top: 50px */
 }
 
 .header-buttons .btn-primary {
