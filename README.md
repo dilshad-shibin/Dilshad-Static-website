@@ -1,5 +1,20 @@
 # Dilshad-Website
-dilshadshibin
+**dilshadshibin** is a fully responsive website template. Based on **[Bootstrap 4.4](https://getbootstrap.com/)** framework and also the JS/JQuery plugin. Highly customizable and easy to use. Fits many screen resolutions from small mobile devices to large desktops.
+
+**Preview on [dilshadshibin.com](https://dilshadshibin.com/#home)**
+
+
+## Browser Support
+
+- IE 10+
+- Firefox (latest)
+- Chrome (latest)
+- Safari (latest)
+- Opera (latest)
+- Microsoft Edge (latest)
+
+
+## Connections
 
 Check My Profile:  https://dilshadshibin.com/
 
@@ -23,8 +38,8 @@ Check My Github: https://github.com/dilshad-shibin
 
 Check My Stackoverflow: https://stackoverflow.com/users/story/11347106#_=_
 
-### Here is What's My Sooperb Services! 👋
 
+### Here is What's My Sooperb Services! 👋
 
 Here are some ideas to get you started:
 
