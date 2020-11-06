@@ -1,5 +1,5 @@
 # Dilshad-Website
-**dilshadshibin** is a fully responsive website template. Based on **[Bootstrap 4.4](https://getbootstrap.com/)** framework and also the JS/JQuery plugin. Highly customizable and easy to use. Fits many screen resolutions from small mobile devices to large desktops.
+**dilshadshibin** is a fully responsive website template. Based on **[Bootstrap 4.1](https://getbootstrap.com/)** framework and also the JS/JQuery plugin. Highly customizable and easy to use. Fits many screen resolutions from small mobile devices to large desktops.
 
 **Preview on [dilshadshibin.com](https://dilshadshibin.com/#home)**
 
@@ -16,27 +16,19 @@
 
 ## Connections
 
-Check My Profile:  https://dilshadshibin.com/
+- **Check My Profile:  [dilshadshibin.com](https://dilshadshibin.com/)**
 
-Check My FaceBook: https://www.facebook.com/dilshad.shibin/
+- **Check My LinkedIn: [LinkedIn](https://www.linkedin.com/in/dilshad-shibin-9779a116b/)**
 
-Check My Instagram: https://www.instagram.com/dilshadshibin/
+- **Check My FaceBook: [Facebook](https://www.facebook.com/dilshad.shibin/)**
 
-Check My LinkedIn: https://www.linkedin.com/in/dilshad-shibin-9779a116b/
+- **Check My Instagram: [Instagram](https://www.instagram.com/dilshadshibin/)**
 
-Check My Twitter: https://twitter.com/DilshadShibin
+- **Check My Twitter: [Twitter](https://twitter.com/DilshadShibin)**
 
-Check My Dribble: https://dribbble.com/dilshad-shibin
+- **Check My Dribble: [Dribble](https://dribbble.com/dilshad-shibin)**
 
-Check My Behance: https://www.behance.net/dilshadshibin
-
-Check My Youtube: https://www.youtube.com/channel/UCIm0u0Jx8n1PXdo0F8rOmIw?view_as=subscriber
-
-Check My Medium: https://medium.com/@msdcva786
-
-Check My Github: https://github.com/dilshad-shibin
-
-Check My Stackoverflow: https://stackoverflow.com/users/story/11347106#_=_
+- **Check My Behance: [Behance](https://www.behance.net/dilshadshibin)**
 
 
 ### Here is What's My Sooperb Services! 👋
