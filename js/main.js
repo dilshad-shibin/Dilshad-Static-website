@@ -224,11 +224,5 @@
                 }
             },
         });
-        $("#map").googleMap({
-            zoom: 16
-        });
-        $("#map").addMarker({
-            address: "S601 Townsend Street, San Francisco, California, USA",
-        });
     });
 })(jQuery);
