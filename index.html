@@ -959,7 +959,7 @@
                         <h3>How Can I <span>Help You?</span></h3>
                       </div>
 
-                      <form id="contact_form" class="contact-form" action="contact_form/contact_form.php" method="post">
+                      <form id="submit-form" class="contact-form" action="">
 
                         <div class="messages"></div>
 
@@ -982,7 +982,7 @@
 
                               <div class="form-group form-group-with-icon">
                                 <input id="form_subject" type="text" name="subject" class="form-control" placeholder="" required="required" data-error="Subject is required.">
-                                <label>Subject</label>
+                                <label>Phone</label>
                                 <div class="form-control-border"></div>
                                 <div class="help-block with-errors"></div>
                               </div>
@@ -1026,5 +1026,25 @@
     <script src="js/jquery.magnific-popup.min.js"></script>
     <script src="js/validator.js"></script>
     <script src="js/main.js"></script>
+
+    <script>
+        $("#submit-form").submit((e)=>{
+            e.preventDefault()
+            $.ajax({
+                url:"https://script.google.com/macros/s/AKfycbwECWNJLXsl02hE7sfKssmSLuevxqRY9IWhOV_K/exec",
+                data:$("#submit-form").serialize(),
+                method:"post",
+                success:function (response){
+                    alert("Form submitted successfully")
+                    window.location.reload()
+                    //window.location.href="https://google.com"
+                },
+                error:function (err){
+                    alert("Something Error")
+    
+                }
+            })
+        })
+    </script>
 </body>
 </html>
