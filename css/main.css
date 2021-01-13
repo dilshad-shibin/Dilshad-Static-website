@@ -138,6 +138,7 @@ input[type=submit],
     -o-transition: all .3s ease-in-out;
     -ms-transition: all .3s ease-in-out;
     transition: all .3s ease-in-out;
+    cursor: pointer;
     box-shadow: 0 10px 10px -8px rgba(0, 0, 0, .3)
 }
 
