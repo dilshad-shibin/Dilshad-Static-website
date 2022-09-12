@@ -397,7 +397,7 @@ input[type=submit]:focus {
 .header-titles h2 {
     font-size: 36px;
     font-weight: 600;
-    color: #f5f5f5;
+    color: #f5f5f5 !important;
     margin: 5px 0 7px;
     line-height: 1.2em
 }
@@ -1415,7 +1415,7 @@ input[type=text],
 .portfolio-grid figure {
     width: 33.33333%;
     float: left;
-    padding: 7px;
+    /* padding: 7px; */
     position: relative;
     overflow: hidden
 }
