@@ -1,7 +1,87 @@
+
+
+
+@media screen and (min-width: 1280px){
+    .row.row-split-content {
+        grid-column-gap: 96px;
+    }
+}
+
+
 @media (min-width:992px){
     .container, .container-lg, .container-md, .container-sm{
         max-width: 1280px;
         padding-left: 32px;
         padding-right: 32px;
+    }
+}
+
+
+@media(max-width: 991px){
+    .dilshad-title{
+        font-size: 4rem;
+    }
+    .row.row-header {
+        grid-column-gap: 48px;
+    }
+}
+
+@media (min-width: 768px){
+    .container, .container-md, .container-sm{
+        max-width: 1280px;
+        padding-left: 32px;
+        padding-right: 32px;
+    }
+}
+
+@media screen and (max-width: 767px){
+    .row.row-header {
+        -ms-grid-columns: 1fr;
+        grid-template-columns: 1fr;
+    }
+}
+
+@media screen and (max-width: 767px){
+    .row.row-split-content {
+        grid-row-gap: 32px;
+        -ms-grid-columns: 1fr;
+        grid-template-columns: 1fr;
+    }
+}
+
+
+@media (min-width: 576px){
+    .container, .container-sm{
+        /* max-width: 1280px; */
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+}
+
+@media (max-width: 575px){
+    .row.row-split-content{
+        margin-right: auto;
+        margin-left: auto;
+    }
+    .dilshad-logo-box a span{
+        font-size: 1.1rem;
+    }
+    .dilshad-header-area{
+        height: 80px;
+    }
+    .dilshad-title {
+        font-size: 3rem;
+    }
+    .dilshad-hero-content p{
+        margin-bottom: 45px;
+    }
+    .about-section p{
+        font-size: 1.1rem;
+    }
+    .content-works p{
+        font-size: 1.2rem;
+    }
+    .mb-72 {
+        margin-bottom: 22px;
     }
 }
